@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bdd496d-e0e6-4f36-ae0f-67818336abb4" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/db.mv.db" afterPath="$PROJECT_DIR$/db.mv.db" />
       <change beforePath="$PROJECT_DIR$/db.trace.db" afterPath="$PROJECT_DIR$/db.trace.db" />
       <change beforePath="$PROJECT_DIR$/src/main/java/fr/eservices/drive/dao/CatalogDaoJPAImpl.java" afterPath="$PROJECT_DIR$/src/main/java/fr/eservices/drive/dao/CatalogDaoJPAImpl.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/eservices/drive/model/Article.java" afterPath="$PROJECT_DIR$/src/main/java/fr/eservices/drive/model/Article.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/eservices/drive/model/Product.java" afterPath="$PROJECT_DIR$/src/main/java/fr/eservices/drive/model/Product.java" />
       <change beforePath="$PROJECT_DIR$/test_db.mv.db" afterPath="$PROJECT_DIR$/test_db.mv.db" />
       <change beforePath="$PROJECT_DIR$/test_db.trace.db" afterPath="$PROJECT_DIR$/test_db.trace.db" />
     </list>
@@ -46,14 +42,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CatalogDaoJPAImpl.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CatalogDaoJPAImpl.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/fr/eservices/drive/dao/CatalogDaoJPAImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="43" column="147" lean-forward="false" selection-start-line="43" selection-start-column="147" selection-end-line="43" selection-end-column="147" />
+            <state relative-caret-position="330">
+              <caret line="54" column="33" lean-forward="false" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
               <folding>
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -99,19 +95,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CatalogDaoTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/test/dao/CatalogDaoTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="134" column="0" lean-forward="false" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
-              <folding>
-                <element signature="e#1712#1713#0" expanded="true" />
-                <element signature="e#1730#1731#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Article.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/fr/eservices/drive/model/Article.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -148,11 +131,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Perishable.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Perishable.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/fr/eservices/drive/model/Perishable.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
               <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CatalogDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fr/eservices/drive/dao/CatalogDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="16" column="57" lean-forward="true" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -166,16 +159,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Status.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/fr/eservices/drive/model/Status.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -237,8 +220,8 @@
         <option value="$PROJECT_DIR$/src/main/java/fr/eservices/drive/model/StatusHistory.java" />
         <option value="$PROJECT_DIR$/src/main/java/fr/eservices/drive/model/Article.java" />
         <option value="$PROJECT_DIR$/src/main/java/fr/eservices/drive/model/Product.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fr/eservices/drive/dao/CatalogDaoJPAImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/fr/eservices/drive/model/Perishable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/eservices/drive/dao/CatalogDaoJPAImpl.java" />
       </list>
     </option>
   </component>
@@ -571,23 +554,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526539605154</updated>
-      <workItem from="1526539610924" duration="11083000" />
+      <workItem from="1526539610924" duration="11557000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="test_in_drive-model - 2018.05.17 at 11h 32m 29s.xml">
-      <configuration name="test in drive-model" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="test_in_drive-model - 2018.05.17 at 11h 44m 15s.xml">
-      <configuration name="test in drive-model" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="test_in_drive-model - 2018.05.17 at 11h 46m 36s.xml">
-      <configuration name="test in drive-model" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="test_in_drive-model - 2018.05.17 at 11h 47m 14s.xml">
-      <configuration name="test in drive-model" configurationId="AndroidJUnit" />
-    </history-entry>
     <history-entry file="test_in_drive-model - 2018.05.17 at 11h 56m 01s.xml">
       <configuration name="test in drive-model" configurationId="AndroidJUnit" />
     </history-entry>
@@ -606,9 +577,21 @@
     <history-entry file="test_in_drive-model - 2018.05.17 at 12h 01m 26s.xml">
       <configuration name="test in drive-model" configurationId="AndroidJUnit" />
     </history-entry>
+    <history-entry file="test_in_drive-model - 2018.05.17 at 12h 04m 58s.xml">
+      <configuration name="test in drive-model" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="test_in_drive-model - 2018.05.17 at 12h 05m 27s.xml">
+      <configuration name="test in drive-model" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="test_in_drive-model - 2018.05.17 at 12h 07m 07s.xml">
+      <configuration name="test in drive-model" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="test_in_drive-model - 2018.05.17 at 12h 09m 21s.xml">
+      <configuration name="test in drive-model" configurationId="AndroidJUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11083000" />
+    <option name="totallyTimeSpent" value="11557000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1920" height="1037" extended-state="6" />
@@ -655,7 +638,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/fr/eservices/drive/dao/CatalogDaoJPAImpl.java</url>
-          <line>30</line>
+          <line>35</line>
           <properties />
         </line-breakpoint>
       </breakpoints>
@@ -708,14 +691,6 @@
             <marker date="1526539611406" expanded="false" signature="4217:4228" ph=" { " />
             <marker date="1526539611406" expanded="false" signature="4240:4246" ph=" }" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/eservices/drive/dao/CatalogDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-59">
-          <caret line="16" column="57" lean-forward="true" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -811,44 +786,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/eservices/drive/model/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-            <element signature="e#599#600#0" expanded="true" />
-            <element signature="e#633#634#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-            <element signature="e#695#696#0" expanded="true" />
-            <element signature="e#727#728#0" expanded="true" />
-            <element signature="e#775#776#0" expanded="true" />
-            <element signature="e#817#818#0" expanded="true" />
-            <element signature="e#854#855#0" expanded="true" />
-            <element signature="e#889#890#0" expanded="true" />
-            <element signature="e#943#944#0" expanded="true" />
-            <element signature="e#991#992#0" expanded="true" />
-            <element signature="e#1024#1025#0" expanded="true" />
-            <element signature="e#1053#1054#0" expanded="true" />
-            <element signature="e#1097#1098#0" expanded="true" />
-            <element signature="e#1133#1134#0" expanded="true" />
-            <element signature="e#1170#1171#0" expanded="true" />
-            <element signature="e#1201#1202#0" expanded="true" />
-            <element signature="e#1251#1252#0" expanded="true" />
-            <element signature="e#1291#1292#0" expanded="true" />
-            <element signature="e#1333#1334#0" expanded="true" />
-            <element signature="e#1364#1365#0" expanded="true" />
-            <element signature="e#1419#1420#0" expanded="true" />
-            <element signature="e#1459#1460#0" expanded="true" />
-            <element signature="e#1499#1500#0" expanded="true" />
-            <element signature="e#1535#1536#0" expanded="true" />
-            <element signature="e#1593#1594#0" expanded="true" />
-            <element signature="e#1643#1644#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/fr/eservices/drive/model/Category.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -867,28 +804,6 @@
             <element signature="e#575#576#0" expanded="true" />
             <element signature="e#620#621#0" expanded="true" />
             <element signature="e#660#661#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test/dao/CatalogDaoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="134" column="0" lean-forward="false" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
-          <folding>
-            <element signature="e#1712#1713#0" expanded="true" />
-            <element signature="e#1730#1731#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/eservices/drive/dao/CatalogDaoJPAImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="43" column="147" lean-forward="false" selection-start-line="43" selection-start-column="147" selection-end-line="43" selection-end-column="147" />
-          <folding>
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -932,6 +847,74 @@
         <state relative-caret-position="144">
           <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/dao/CatalogDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="151" column="16" lean-forward="false" selection-start-line="151" selection-start-column="16" selection-end-line="151" selection-end-column="16" />
+          <folding>
+            <element signature="e#1712#1713#0" expanded="true" />
+            <element signature="e#1730#1731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/eservices/drive/model/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+            <element signature="e#854#855#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#991#992#0" expanded="true" />
+            <element signature="e#1024#1025#0" expanded="true" />
+            <element signature="e#1053#1054#0" expanded="true" />
+            <element signature="e#1097#1098#0" expanded="true" />
+            <element signature="e#1133#1134#0" expanded="true" />
+            <element signature="e#1170#1171#0" expanded="true" />
+            <element signature="e#1201#1202#0" expanded="true" />
+            <element signature="e#1251#1252#0" expanded="true" />
+            <element signature="e#1291#1292#0" expanded="true" />
+            <element signature="e#1333#1334#0" expanded="true" />
+            <element signature="e#1364#1365#0" expanded="true" />
+            <element signature="e#1419#1420#0" expanded="true" />
+            <element signature="e#1459#1460#0" expanded="true" />
+            <element signature="e#1499#1500#0" expanded="true" />
+            <element signature="e#1535#1536#0" expanded="true" />
+            <element signature="e#1593#1594#0" expanded="true" />
+            <element signature="e#1643#1644#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/eservices/drive/dao/CatalogDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="16" column="57" lean-forward="true" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/eservices/drive/dao/CatalogDaoJPAImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="54" column="33" lean-forward="false" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
+          <folding>
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
