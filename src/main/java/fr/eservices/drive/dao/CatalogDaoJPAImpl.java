@@ -4,6 +4,7 @@ import java.util.Date;
 import java.util.List;
 
 import javax.persistence.EntityManager;
+import javax.persistence.TemporalType;
 
 import fr.eservices.drive.model.Article;
 import fr.eservices.drive.model.Category;
@@ -40,7 +41,7 @@ public class CatalogDaoJPAImpl implements CatalogDao {
 
 	@Override
 	public List<Perishable> getPerished(Date day) {
-		List<Perishable> perishables = em.createQuery("select p from Perishable p where bestBefore=:day").setParameter("day",day).getResultList();
+		List<Perishable> perishables = em.createQuery("select p from Perishable p where bestBefore<=:day").setParameter("day",day,TemporalType.DATE).getResultList();
 		return perishables;
 	}
 

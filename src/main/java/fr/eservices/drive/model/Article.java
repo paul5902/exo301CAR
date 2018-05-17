@@ -4,7 +4,6 @@ import javax.persistence.*;
 import java.util.List;
 
 @Entity
-@Inheritance(strategy=InheritanceType.JOINED)
 public class Article {
 
     @Id
